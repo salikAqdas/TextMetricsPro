@@ -1,0 +1,12 @@
+/* Add custom styles here */
+/* For responsiveness, Bootstrap handles most of it */
+
+/* Adjustments for the results section */
+#results {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  header h1 {
+    font-size: 2rem;
+  }  
